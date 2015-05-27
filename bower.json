@@ -1,0 +1,22 @@
+{
+  "name": "angular-slidedeck-example",
+  "main": "index.html",
+  "version": "0.0.0",
+  "homepage": "https://github.com/paperhive/angular-slidedeck-example",
+  "authors": [
+    "André Gaul <andre@gaul.io>"
+  ],
+  "description": "Example for angular-slidedeck",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "~1.4.0",
+    "bootstrap": "~3.3.4"
+  }
+}
