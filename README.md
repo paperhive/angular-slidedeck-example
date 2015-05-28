@@ -2,6 +2,8 @@
 
 ## [Live demo](https://paperhive.github.io/angular-slidedeck-example/)
 
+Feel free to use this repository as a template for your own presentation.
+
 ## Installation
  1. run `bower install`
  2. use your favorite local web server, for example
