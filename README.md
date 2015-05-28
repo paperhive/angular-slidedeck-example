@@ -1,5 +1,7 @@
 # Example for [angular-slidedeck](https://github.com/paperhive/angular-slidedeck)
 
+## [Live demo](https://paperhive.github.io/angular-slidedeck-example/)
+
 ## Installation
  1. run `bower install`
  2. use your favorite local web server, for example
